@@ -1,0 +1,13 @@
+{
+  "aluno": [
+    {
+      "id": 1,
+      "nome": "Henning",
+      "curso": "frontend",
+      "matricula": "546AA"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
